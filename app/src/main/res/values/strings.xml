@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">YardSale</string>
+
+    <!-- LAUNCH SCREEN -->
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="btn_log_in">Log In</string>
+
+    <!-- LOGIN DIALOG -->
+    <string name="login_dialog_title">Login</string>
+    <string name="login_dialog_confirm">OK</string>
+    <string name="login_dialog_cancel">Cancel</string>
+    <string name="email_address">email address</string>
+    <string name="password">password</string>
+
+    <!-- SIGN UP -->
+
+
+    <!-- NAVIGATION -->
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
